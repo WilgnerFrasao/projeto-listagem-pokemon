@@ -10,7 +10,7 @@ body{
 }
 
 body.modo-escuro{
-    background-image: url("../imagens/fundonoite.gif");
+    url("../imagens/fundonoite.gif");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
