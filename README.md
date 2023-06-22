@@ -9,6 +9,6 @@ Cada Pokemón é representado por um gif e ao passar o mause por cima de cada it
 *Modo Escuro:*
 ![](./imagens/pokemon-escuro.png)
 <br><br>
-Para ver o projeto funcionado [AQUI](https://github.com/WilgnerFrasao/projeto-listagem-pokemon/deployments/activity_log?environment=github-pages)
+Para ver o projeto funcionado [AQUI](https://wilgnerfrasao.github.io/projeto-listagem-pokemon/)
 
 
